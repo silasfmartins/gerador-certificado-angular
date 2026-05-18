@@ -25,7 +25,10 @@
               }
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "https://cdn.jsdelivr.net/npm/phosphor-icons@1.4.2/src/regular/icons.min.css",
+              "https://cdn.jsdelivr.net/npm/phosphor-icons@1.4.2/src/bold/icons.min.css"
             ]
           },
           "configurations": {
