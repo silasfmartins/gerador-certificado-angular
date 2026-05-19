@@ -73,6 +73,10 @@ label {
   box-shadow: none;
 }
 
+.custom-input-group {
+  margin-bottom: 20px !important;
+}
+
 .custom-input-group:has(input:focus)>label {
   color: #3B5AC2;
 }
@@ -92,5 +96,9 @@ label {
 }
 
 .custom-input-group:has(.error-message)>label {
+  color: #D71D1D;
+}
+
+.text-danger-label {
   color: #D71D1D;
 }
